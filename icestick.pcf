@@ -1,0 +1,4 @@
+set_io clk 21
+set_io --warn-no-port rx 9
+set_io led 99
+

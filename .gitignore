@@ -1,0 +1,6 @@
+*.blif
+*.txt
+*.ex
+*.DS_Store
+*.vcd
+
