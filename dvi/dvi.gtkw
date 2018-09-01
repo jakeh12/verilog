@@ -1,0 +1,41 @@
+[*]
+[*] GTKWave Analyzer v3.3.89 (w)1999-2018 BSI
+[*] Thu Aug 30 03:09:07 2018
+[*]
+[dumpfile] "/home/jhladik/Verilog/dvi/dvi_tb.vcd"
+[dumpfile_mtime] "Thu Aug 30 03:06:28 2018"
+[dumpfile_size] 231293
+[savefile] "/home/jhladik/Verilog/dvi/dvi.gtkw"
+[timestart] 0
+[size] 1920 1016
+[pos] -1 -1
+*-18.729675 1040000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] dvi_tb.
+[treeopen] dvi_tb.uut.
+[sst_width] 229
+[signals_width] 250
+[sst_expanded] 1
+[sst_vpaned_height] 284
+@28
+dvi_tb.uut.rstn
+dvi_tb.uut.clk
+dvi_tb.uut.clk5x
+@22
+dvi_tb.uut.r[7:0]
+dvi_tb.uut.g[7:0]
+dvi_tb.uut.b[7:0]
+@28
+dvi_tb.uut.dena
+dvi_tb.uut.hsync
+dvi_tb.uut.vsync
+(3)dvi_tb.uut.tmds_p[3:0]
+(3)dvi_tb.uut.tmds_n[3:0]
+(2)dvi_tb.uut.tmds_p[3:0]
+(2)dvi_tb.uut.tmds_n[3:0]
+(1)dvi_tb.uut.tmds_p[3:0]
+(1)dvi_tb.uut.tmds_n[3:0]
+(0)dvi_tb.uut.tmds_p[3:0]
+(0)dvi_tb.uut.tmds_n[3:0]
+dvi_tb.uut.serializer_counter[2:0]
+[pattern_trace] 1
+[pattern_trace] 0
